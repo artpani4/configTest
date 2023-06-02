@@ -1,5 +1,5 @@
 const localBotConfig = {
-  name: "local",
+  name: "remote",
   secrets: [
     {
       name: "API_KEY",
