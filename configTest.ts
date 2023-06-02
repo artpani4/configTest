@@ -8,7 +8,7 @@ const localBotConfig = {
   ],
   telegram: {
     botToken: "ololo",
-    salt: "salt",
+    salt: "salt2",
     chatId: "123",
     newField: 1000,
     tokens: [{
