@@ -3,7 +3,6 @@ const localBotConfig = {
   secrets: [
     {
       name: "API_KEY",
-      value: "ololo1",
     },
   ],
   telegram: {
