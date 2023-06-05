@@ -1,4 +1,4 @@
-const localBotConfig = {
+{
   name: "remote",
   secrets: [
     {
@@ -27,4 +27,3 @@ const localBotConfig = {
   },
 };
 
-export default localBotConfig;
