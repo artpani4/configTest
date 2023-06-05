@@ -1,29 +1,11 @@
 {
-  name: "remote",
+  name: 'github',
   secrets: [
     {
-      name: "API_KEY",
+      name: 'API_KEY',
     },
   ],
-  telegram: {
-    salt: "salt2",
-    chatId: "123",
-    newField: 1000,
-    tokens: [{
-      a: 10,
-      b: 20,
-      c: 30,
-    }, {
-      a: 40,
-      b: 100,
-      d: 500,
-      f: 900,
-    }],
-  },
-  database: {
-    supaApi: "lalala",
-    username: "ololoev",
-    password: "mmm",
-  },
+  pageNotion: '6f798814a1b74f0c95b190962a506f98',
+  codeBlockId: '9a4e81da0d324cd9b9e5ebb2b92c4f71',
 };
 
