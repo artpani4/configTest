@@ -1,4 +1,4 @@
-const prodSupabase: SupabaseConfig = {
+const prodSupabase = {
   name: 'gitRaw',
   secrets: [
     {
