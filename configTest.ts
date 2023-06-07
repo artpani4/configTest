@@ -1,4 +1,4 @@
-{
+const prodSupabase: SupabaseConfig = {
   name: 'gitRaw',
   secrets: [
     {
@@ -8,7 +8,9 @@
       name: 'URL',
     },
   ],
-  timeoutToUpdate: 4000
-  mainTable: 'Payments',
+  timeoutToUpdate: 100,
+  mainTable: 'Invoices',
   isSubscribtionOn: false,
 };
+
+export default prodSupabase;
